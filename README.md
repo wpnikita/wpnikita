@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Nikita Wadekar (Lead SDET)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wpnikita)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wpnikita&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on Java, Selenium, Jmeter API Automation
 - 🌱 I’m currently learning **Performance Testing**
