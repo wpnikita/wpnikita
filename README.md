@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Performance Testing**
 - 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
 - 📫 How to reach me **nikitawadekar2019@gmail.com**
-- 📄 Know about my experiences http://linkedin.com/in/
+- 📄 Know about my experiences http://linkedin.com/in/nikita-wadekar-2307bb7a
 
 
 <!---
