@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> To connect with me, you can find my professional profile and contact details or explore more about my projects and interests through my LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<p> To connect with me, you can find my professional profile and contact details or explore more about my projects, Papers, Patent and interests through my LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 <div align="center">
   <a href="[https://in.linkedin.com/in/nikita-wadekar-2307bb7a?trk=people-guest_people_search-card]">
     <img src="https://img.shields.io/badge/NikitaWadekar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
