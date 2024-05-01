@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Nikita Wadekar (Lead SDET)
+## 👋 Hi, I’m Nikita (Lead SDET)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wpnikita&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -11,6 +11,8 @@
 
 ### Languages and Tools:
 Java  C#  Selenium Jmeter CodedUI SoapUI Javascript
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wpnikita&layout=compact&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api?username=wpnikita&show_icons=true)](https://github.com/wpnikita)
 <!---
 wpnikita/wpnikita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
