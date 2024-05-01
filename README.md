@@ -1,10 +1,8 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Nikita;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=35&duration=3000&color=33FF33&center=true&vCenter=true&width=350&lines=Hey..+I'm+Nikita;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>I'm a Lead SDET at Worldpay India Pvt. Ltd., specializing in automation and Performance testing. My technical range is broad, covering everything from UI testing, API testing, performance testing using different tools like Selenium, CodedUI, Jmeter to test Banking, payments and Healthcare applications. </p>
 </div>
 <div align="center">
@@ -33,15 +31,22 @@
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
-<h2 align="center" class="section-heading">🔧 Frameworks</h2>
+<h2 align="center" class="section-heading">⚓ Frameworks</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Selenium-20232A?style=for-the-badge&logo=selenium&logoColor=61DAFB" alt="selenium"/>
   <img src="https://img.shields.io/badge/Apache%20Jmeter-FF3E00?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="ApacheJmeter"/>
-  <img src="https://img.shields.io/badge/Soap%20UI-FF6F00?style=for-the-badge&logo=soapui&logoColor=white" alt="soapui"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Coded%20UI-007ACC?style=for-the-badge&logo=codedui&logoColor=white" alt="codedui"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> 
+</div>
+    <h2 align="center" class="section-heading">🔧 Tools</h2>
+<p>The tools that I have experinece in using are </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Intellij-80008A?style=for-the-badge&logo=Intellij&logoColor=61DAFB" alt="intellij"/>
+  <img src="https://img.shields.io/badge/Apache%20Jmeter-FF3E00?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="ApacheJmeter"/>
+  <img src="https://img.shields.io/badge/Soap%20UI-FF6F00?style=for-the-badge&logo=soapui&logoColor=white" alt="soapui"/>
+  <img src="https://img.shields.io/badge/Ranorex-F05032?style=for-the-badge&logo=Ranorex&logoColor=white" alt="Ranorex"/>
+  <img src="https://img.shields.io/badge/Coded%20UI-007ACC?style=for-the-badge&logo=codedui&logoColor=white" alt="codedui"/>
 </div>
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
