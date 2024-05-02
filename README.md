@@ -31,14 +31,13 @@
 <p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
 </div>
 <h2 align="center" class="section-heading">⚓ Frameworks</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Selenium-339933?style=for-the-badge&logo=selenium&logoColor=61DAFB" alt="selenium"/>
-  <img src="https://img.shields.io/badge/Apache%20Jmeter-000000?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="ApacheJmeter"/>
   <img src="https://img.shields.io/badge/Git-E7E7F3?style=for-the-badge&logo=git&logoColor=red" alt="Git"/>
 </div>
     <h2 align="center" class="section-heading">🔧 Tools</h2>
