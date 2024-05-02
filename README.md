@@ -12,14 +12,18 @@
   <a href="[https://in.linkedin.com/in/nikita-wadekar-2307bb7a?trk=people-guest_people_search-card]">
     <img src="https://img.shields.io/badge/NikitaWadekar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+    <a href="[https://in.linkedin.com/in/nikita-wadekar-2307bb7a?trk=people-guest_people_search-card]">
+    <img src="https://img.shields.io/badge/nikitawadekar2019@gmail.com-E55A49?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
 <a href="[https://github.com/wpnikita]" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=black" alt="GitHub Skyline"/>
+</a>
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/cSharp-3776AB?style=for-the-badge&logo=csharp&logoColor=white" alt="CSharp"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/cSharp-B047F0?style=for-the-badge&logo=CSharp&logoColor=white" alt="CSharp"/>
+  <img src="https://img.shields.io/badge/JavaScript-39EAE5?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
  </div>
@@ -29,24 +33,22 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 <h2 align="center" class="section-heading">⚓ Frameworks</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Selenium-20232A?style=for-the-badge&logo=selenium&logoColor=61DAFB" alt="selenium"/>
-  <img src="https://img.shields.io/badge/Apache%20Jmeter-FF3E00?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="ApacheJmeter"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> 
+  <img src="https://img.shields.io/badge/Selenium-339933?style=for-the-badge&logo=selenium&logoColor=61DAFB" alt="selenium"/>
+  <img src="https://img.shields.io/badge/Apache%20Jmeter-000000?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="ApacheJmeter"/>
+  <img src="https://img.shields.io/badge/Git-E7E7F3?style=for-the-badge&logo=git&logoColor=red" alt="Git"/>
 </div>
     <h2 align="center" class="section-heading">🔧 Tools</h2>
 <p>The tools that I have experinece in using are </p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Intellij-80008A?style=for-the-badge&logo=Intellij&logoColor=61DAFB" alt="intellij"/>
-  <img src="https://img.shields.io/badge/Apache%20Jmeter-FF3E00?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="ApacheJmeter"/>
-  <img src="https://img.shields.io/badge/Soap%20UI-FF6F00?style=for-the-badge&logo=soapui&logoColor=white" alt="soapui"/>
+  <img src="https://img.shields.io/badge/Intellij-E13AA1?style=for-the-badge&logo=Intellij&logoColor=61DAFB" alt="intellij"/>
+  <img src="https://img.shields.io/badge/Apache%20Jmeter-000000?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="ApacheJmeter"/>
+  <img src="https://img.shields.io/badge/Soap%20UI-F0D654?style=for-the-badge&logo=soapui&logoColor=white" alt="soapui"/>
   <img src="https://img.shields.io/badge/Ranorex-F05032?style=for-the-badge&logo=Ranorex&logoColor=white" alt="Ranorex"/>
-  <img src="https://img.shields.io/badge/Coded%20UI-007ACC?style=for-the-badge&logo=codedui&logoColor=white" alt="codedui"/>
+  <img src="https://img.shields.io/badge/Coded%20UI-80008A?style=for-the-badge&logo=codedui&logoColor=white" alt="codedui"/>
 </div>
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
